@@ -10,7 +10,7 @@
     src: url("https://cdn.jsdelivr.net/gh/wefonts/scoreDream/scoreDream1-thin.eot?#iefix") format("embedded-opentype"),
          url("https://cdn.jsdelivr.net/gh/wefonts/scoreDream/scoreDream1-thin.woff2") format("woff2"),
          url("https://cdn.jsdelivr.net/gh/wefonts/scoreDream/scoreDream1-thin.woff") format("woff"),
-         url("https://cdn.jsdelivr.net/gh/wefonts/scoreDream/scoreDream1-thin.ttf") format("truetype");
+         url("https://cdn.jsdelivr.net/gh/wefonts/scoreDream/scoreDream1-thin.otf") format("truetype");
     font-display: swap;
 }
 @font-face {
@@ -21,7 +21,7 @@
     src: url("https://cdn.jsdelivr.net/gh/wefonts/scoreDream/scoreDream2-ExtraLight.eot?#iefix") format("embedded-opentype"),
          url("https://cdn.jsdelivr.net/gh/wefonts/scoreDream/scoreDream2-ExtraLight.woff2") format("woff2"),
          url("https://cdn.jsdelivr.net/gh/wefonts/scoreDream/scoreDream2-ExtraLight.woff") format("woff"),
-         url("https://cdn.jsdelivr.net/gh/wefonts/scoreDream/scoreDream2-ExtraLight.ttf") format("truetype");
+         url("https://cdn.jsdelivr.net/gh/wefonts/scoreDream/scoreDream2-ExtraLight.otf") format("truetype");
     font-display: swap;
 }
 @font-face {
@@ -32,7 +32,7 @@
     src: url("https://cdn.jsdelivr.net/gh/wefonts/scoreDream/scoreDream3-Light.eot?#iefix") format("embedded-opentype"),
          url("https://cdn.jsdelivr.net/gh/wefonts/scoreDream/scoreDream3-Light.woff2") format("woff2"),
          url("https://cdn.jsdelivr.net/gh/wefonts/scoreDream/scoreDream3-Light.woff") format("woff"),
-         url("https://cdn.jsdelivr.net/gh/wefonts/scoreDream/scoreDream3-Light.ttf") format("truetype");
+         url("https://cdn.jsdelivr.net/gh/wefonts/scoreDream/scoreDream3-Light.otf") format("truetype");
     font-display: swap;
 }
 @font-face {
@@ -43,7 +43,7 @@
     src: url("https://cdn.jsdelivr.net/gh/wefonts/scoreDream/scoreDream4-Regular.eot?#iefix") format("embedded-opentype"),
          url("https://cdn.jsdelivr.net/gh/wefonts/scoreDream/scoreDream4-Regular.woff2") format("woff2"),
          url("https://cdn.jsdelivr.net/gh/wefonts/scoreDream/scoreDream4-Regular.woff") format("woff"),
-         url("https://cdn.jsdelivr.net/gh/wefonts/scoreDream/scoreDream4-Regular.ttf") format("truetype");
+         url("https://cdn.jsdelivr.net/gh/wefonts/scoreDream/scoreDream4-Regular.otf") format("truetype");
     font-display: swap;
 }
 @font-face {
@@ -54,7 +54,7 @@
     src: url("https://cdn.jsdelivr.net/gh/wefonts/scoreDream/scoreDream5-Medium.eot?#iefix") format("embedded-opentype"),
          url("https://cdn.jsdelivr.net/gh/wefonts/scoreDream/scoreDream5-Medium.woff2") format("woff2"),
          url("https://cdn.jsdelivr.net/gh/wefonts/scoreDream/scoreDream5-Medium.woff") format("woff"),
-         url("https://cdn.jsdelivr.net/gh/wefonts/scoreDream/scoreDream5-Medium.ttf") format("truetype");
+         url("https://cdn.jsdelivr.net/gh/wefonts/scoreDream/scoreDream5-Medium.otf") format("truetype");
     font-display: swap;
 }
 @font-face {
@@ -65,7 +65,7 @@
     src: url("https://cdn.jsdelivr.net/gh/wefonts/scoreDream/scoreDream6-Bold.eot?#iefix") format("embedded-opentype"),
          url("https://cdn.jsdelivr.net/gh/wefonts/scoreDream/scoreDream6-Bold.woff2") format("woff2"),
          url("https://cdn.jsdelivr.net/gh/wefonts/scoreDream/scoreDream6-Bold.woff") format("woff"),
-         url("https://cdn.jsdelivr.net/gh/wefonts/scoreDream/scoreDream6-Bold.ttf") format("truetype");
+         url("https://cdn.jsdelivr.net/gh/wefonts/scoreDream/scoreDream6-Bold.otf") format("truetype");
     font-display: swap;
 }
 @font-face {
@@ -76,7 +76,7 @@
     src: url("https://cdn.jsdelivr.net/gh/wefont/scoreDream/scoreDream7-ExtraBold.eot?#iefix") format("embedded-opentype"),
          url("https://cdn.jsdelivr.net/gh/wefont/scoreDream/scoreDream7-ExtraBold.woff2") format("woff2"),
          url("https://cdn.jsdelivr.net/gh/wefont/scoreDream/scoreDream7-ExtraBold.woff") format("woff"),
-         url("https://cdn.jsdelivr.net/gh/wefont/scoreDream/scoreDream7-ExtraBold.ttf") format("truetype");
+         url("https://cdn.jsdelivr.net/gh/wefont/scoreDream/scoreDream7-ExtraBold.otf") format("truetype");
     font-display: swap;
 }
 @font-face {
@@ -87,7 +87,7 @@
     src: url("https://cdn.jsdelivr.net/gh/wefonts/scoreDream/scoreDream-Heavy.eot?#iefix") format("embedded-opentype"),
          url("https://cdn.jsdelivr.net/gh/wefonts/scoreDream/scoreDream-Heavy.woff2") format("woff2"),
          url("https://cdn.jsdelivr.net/gh/wefonts/scoreDream/scoreDream-Heavy.woff") format("woff"),
-         url("https://cdn.jsdelivr.net/gh/wefonts/scoreDream/scoreDream-Heavy.ttf") format("truetype");
+         url("https://cdn.jsdelivr.net/gh/wefonts/scoreDream/scoreDream-Heavy.otf") format("truetype");
     font-display: swap;
 }
 @font-face {
@@ -98,7 +98,7 @@
     src: url("https://cdn.jsdelivr.net/gh/wefonts/scoreDream/scoreDream9-Black.eot?#iefix") format("embedded-opentype"),
          url("https://cdn.jsdelivr.net/gh/wefonts/scoreDream/scoreDream9-Black.woff2") format("woff2"),
          url("https://cdn.jsdelivr.net/gh/wefonts/scoreDream/scoreDream9-Black.woff") format("woff"),
-         url("https://cdn.jsdelivr.net/gh/wefonts/scoreDream/scoreDream9-Black.ttf") format("truetype");
+         url("https://cdn.jsdelivr.net/gh/wefonts/scoreDream/scoreDream9-Black.otf") format("truetype");
     font-display: swap;
 }
 
